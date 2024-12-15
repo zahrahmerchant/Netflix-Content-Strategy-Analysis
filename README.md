@@ -12,10 +12,6 @@ This project analyzes Netflix's content strategy using data from various sources
    ```
    cd Netflix Content Strategy Analysis
    ```
-3. Install required packages (if any):
-   ```
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 Open the Jupyter Notebook `netflix_content_startegy.ipynb` to explore the analysis and visualizations.

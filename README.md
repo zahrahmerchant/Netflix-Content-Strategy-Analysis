@@ -6,7 +6,7 @@ This project analyzes Netflix's content strategy using data from various sources
 ## Installation Instructions
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/zahrahmerchant/Netflix-Content-Strategy-Analysi
    ```
 2. Navigate to the project directory:
    ```

@@ -1,0 +1,9 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+Data/*.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
